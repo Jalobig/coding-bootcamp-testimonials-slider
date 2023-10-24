@@ -1,0 +1,22 @@
+:root {
+  // Colors
+
+  /// Primary
+
+  --color-grey-dark: hsl(240, 38%, 20%);
+  --color-grey-shadow: hsla(240, 37%, 20%, 0.425);
+  --color-grey: hsl(240, 18%, 77%);
+
+  // Typography
+}
+*,
+*::after,
+*::before {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+body {
+  margin: 0;
+  font-family: "Inter", sans-serif;
+}
